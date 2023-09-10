@@ -2,7 +2,8 @@
 <h1 align="center">🌌 This is my Profile 🚀</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/star-wars-logo.png" alt="Star Wars Logo">
+  <img src="![image](https://github.com/yousefattaff/yousefattaff/assets/134104130/fa4cfcf2-b459-43c1-bfa2-fabfdeb828c3)
+" alt="Star Wars Logo">
 </p>
 
 <p align="center">
