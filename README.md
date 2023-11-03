@@ -1,10 +1,4 @@
-# 💫 About Me:
-  __   __
-  \ \ / /__  __ _ _ __ ___   ___  __ _ ___ _ __  
-   \ V / _ \/ _` | '_ ` _ \ / _ \/ _` / _ \ '_ \
-   | |  __/ (_| | | | | | |  __/ (_| \  __/ | | |
-   |_|\___|\__,_|_| |_| |_|\___|\__, |\___|_| |_|
-                             |___/
+
 ### About Me
 Hello, I'm Yousef Alsayed, an aspiring engineer with a strong passion for coding and a focus on embedded systems and robotics. I'm currently working on my graduation project, a waiter robot, which combines my love for both hardware and software development.
 
