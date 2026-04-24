@@ -6,11 +6,7 @@
   <img src="https://img.shields.io/github/followers/yousefattaff?style=social" alt="Followers"/>
 </div>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=500&height=35&lines=👋+Hello%2C+I'm+Yousef!" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&height=30&lines=AI+Software+Engineer+%F0%9F%A4%96;Building+LLMs%2C+Agents+%26+RAG+Systems+%F0%9F%A7%A0" alt="Typing SVG" />
-</div>
-<br/>
+
 <!-- Social Links -->
 <div align="center">
   <a href="https://github.com/yousefattaff" target="_blank">
@@ -169,11 +165,7 @@ CS50x — Intro to Computer Science	Harvard / edX	C, Python, SQL, Algorithms, Fl
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=yousefattaff&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousefattaff&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8"/>
-</div>
-<br/>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 <h2 align="center">📬 Let's Connect!</h2>
@@ -196,18 +188,4 @@ CS50x — Intro to Computer Science	Harvard / edX	C, Python, SQL, Algorithms, Fl
   <a href="https://www.facebook.com/yousef.abuelkhear" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook"/>
   </a>
-</div>
-<br/>
-<!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yousefattaff/yousefattaff/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
-</div>
-<br/>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:A855F7,100:6366F1&height=120&section=footer"/>
-</p>
-<p align="center">
-  <a href="#top">
-    <img src="https://img.shields.io/badge/⬆️_Back_to_Top-6366F1?style=for-the-badge" alt="Back to top"/>
-  </a>
-</p>
+
