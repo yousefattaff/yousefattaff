@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6B21A8,100:9D174D&height=120&section=header&text=Yousef%20Abdelfattah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6B21A8,100:9D174D&height=120&section=header&text=Yousef%20Alsayed%20Abdelfattah&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">AI Software Engineer · LLMs, Agents & RAG Systems</h3>
