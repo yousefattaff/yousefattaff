@@ -116,18 +116,6 @@ Hi! I'm Yousef — an AI Software Engineer from Cairo 🇪🇬, passionate about
       <br><b>C</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/>
-      <br><b>JavaScript</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
-      <br><b>MySQL</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/>
-      <br><b>Redis</b>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter"/>
       <br><b>Jupyter</b>
     </td>
