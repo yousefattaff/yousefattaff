@@ -94,16 +94,8 @@ Hi! I'm Yousef — an AI Software Engineer from Cairo 🇪🇬, passionate about
       <br><b>FastAPI</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask"/>
-      <br><b>Flask</b>
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
       <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
-      <br><b>PostgreSQL</b>
     </td>
   </tr>
   <tr>
