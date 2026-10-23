@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Yousef Alsayed — AI Engineer. From physical systems to intelligent software." />
+  <img src="./assets/profile-banner.svg" width="100%" alt="R2-D2 says: Hello world! I am Yousef, an AI engineer and a mechatronics graduate." />
 
   <p><strong>AI Engineer · LLM Applications · Multi-Agent Systems · Automation</strong></p>
 

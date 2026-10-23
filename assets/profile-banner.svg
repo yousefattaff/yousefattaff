@@ -1,66 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title description">
-  <title id="title">Yousef Alsayed — AI Engineer</title>
-  <desc id="description">A midnight-blue engineering canvas with emerald signal paths. From physical systems to intelligent software: sense, reason, act.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">Hello world! I am Yousef, an AI engineer and a mechatronics graduate.</title>
+  <desc id="description">A simple R2-D2 peeks into a dark panel from the left. Mint monospace text introduces Yousef as an AI engineer and mechatronics graduate, surrounded by blue.</desc>
   <defs>
-    <linearGradient id="canvas" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1220"/>
-      <stop offset="1" stop-color="#101F2C"/>
+    <linearGradient id="background" x1="600" y1="0" x2="600" y2="480" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4B94DF"/>
+      <stop offset="1" stop-color="#3D80C5"/>
     </linearGradient>
-    <linearGradient id="signal" x1="744" y1="180" x2="1140" y2="180" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#34D399" stop-opacity="0.2"/>
-      <stop offset="0.5" stop-color="#6EE7B7"/>
-      <stop offset="1" stop-color="#34D399" stop-opacity="0.45"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(947 171) rotate(90) scale(224 310)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#34D399" stop-opacity="0.09"/>
-      <stop offset="1" stop-color="#34D399" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" stroke="#94A3B8" stroke-opacity="0.055"/>
-    </pattern>
+    <filter id="shadow" x="20" y="35" width="1160" height="410" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="15" stdDeviation="19" flood-color="#082C50" flood-opacity="0.48"/>
+    </filter>
+    <clipPath id="panel">
+      <rect x="80" y="80" width="1040" height="320" rx="5"/>
+    </clipPath>
   </defs>
-  <rect width="1200" height="360" rx="18" fill="url(#canvas)"/>
-  <rect x="720" width="480" height="360" rx="18" fill="url(#grid)"/>
-  <rect width="1200" height="360" rx="18" fill="url(#glow)"/>
-  <rect x="0.5" y="0.5" width="1199" height="359" rx="17.5" stroke="#253448"/>
-  <path d="M58 52H88M58 52V82M1142 278V308H1112" stroke="#6EE7B7" stroke-opacity="0.5" stroke-width="2"/>
 
-  <g font-family="Segoe UI, Arial, Helvetica, sans-serif">
-    <text x="60" y="107" fill="#6EE7B7" font-size="14" font-weight="600" letter-spacing="4">AI ENGINEER / CAIRO, EGYPT</text>
-    <text x="56" y="180" fill="#F1F5F9" font-size="61" font-weight="700" letter-spacing="-2">Yousef Alsayed</text>
-    <text x="60" y="224" fill="#B9C6D6" font-size="23">From physical systems</text>
-    <text x="60" y="256" fill="#B9C6D6" font-size="23">to intelligent software.</text>
-    <path d="M60 290H92" stroke="#6EE7B7" stroke-width="2"/>
-    <text x="106" y="295" fill="#8597AD" font-size="13" letter-spacing="1.5">LLMs · AGENTS · AUTOMATION · ROBOTICS</text>
+  <rect width="1200" height="480" fill="url(#background)"/>
+  <rect x="80" y="80" width="1040" height="320" rx="5" fill="#001522" stroke="#0A2033" stroke-width="2" filter="url(#shadow)"/>
+
+  <g clip-path="url(#panel)">
+    <g transform="translate(13 117) rotate(7 90 135)">
+      <!-- Flat shapes keep the droid readable at profile-banner size. -->
+      <path d="M20 88A62 62 0 0 1 144 88V99H20Z" fill="#D9E3EC"/>
+      <path d="M70 27A62 62 0 0 1 104 30L106 52H70Z" fill="#387DC7"/>
+      <path d="M117 39A62 62 0 0 1 141 69H119Z" fill="#387DC7"/>
+      <path d="M20 84H144V99H20Z" fill="#387DC7"/>
+      <rect x="77" y="54" width="32" height="26" rx="4" fill="#2767AC"/>
+      <circle cx="93" cy="67" r="9" fill="#001522"/>
+      <circle cx="96" cy="64" r="2" fill="#ABC5D8"/>
+      <rect x="117" y="76" width="12" height="6" rx="2" fill="#6D879C"/>
+      <circle cx="123" cy="79" r="2.5" fill="#EA8179"/>
+
+      <rect x="21" y="103" width="122" height="137" rx="10" fill="#EDF2F5"/>
+      <rect x="21" y="103" width="122" height="9" fill="#BCCBD6"/>
+      <rect x="49" y="121" width="61" height="12" rx="2" fill="#387DC7"/>
+      <rect x="49" y="141" width="61" height="12" rx="2" fill="#387DC7"/>
+      <rect x="78" y="168" width="29" height="51" rx="3" fill="#387DC7"/>
+      <path d="M84 178H101M84 188H101M84 198H101M84 208H101" stroke="#BDD7EA" stroke-width="3"/>
+      <rect x="117" y="124" width="13" height="94" rx="2" fill="#C1CFDA"/>
+      <path d="M123.5 132V210" stroke="#859BAC" stroke-width="3"/>
+      <rect x="38" y="169" width="26" height="49" rx="3" fill="#CFDAE2"/>
+      <path d="M45 178H57M45 189H57M45 200H57" stroke="#8BA3B5" stroke-width="3"/>
+
+      <rect x="144" y="125" width="22" height="107" rx="7" fill="#DDE6EC"/>
+      <rect x="149" y="158" width="12" height="62" rx="2" fill="#387DC7"/>
+      <path d="M139 230H169L179 250H129Z" fill="#EDF2F5"/>
+      <path d="M139 247H172" stroke="#C1CFDA" stroke-width="6"/>
+      <rect x="74" y="237" width="19" height="14" fill="#BCCBD6"/>
+      <path d="M67 251H101L107 265H61Z" fill="#E5ECF1"/>
+    </g>
   </g>
 
-  <g stroke="url(#signal)" stroke-width="1.6">
-    <path d="M747 126H784L813 155H864"/>
-    <path d="M747 180H864"/>
-    <path d="M747 234H784L813 205H864"/>
-    <path d="M972 180H1010L1042 126H1125"/>
-    <path d="M972 180H1125"/>
-    <path d="M972 180H1010L1042 234H1125"/>
+  <g text-anchor="middle" fill="#94D7C5" font-family="Consolas, Courier New, monospace">
+    <text x="600" y="204" font-size="32" letter-spacing="1">Hello world!</text>
+    <text x="600" y="254" font-size="25">I am Yousef, an AI engineer</text>
+    <text x="600" y="292" font-size="25">and a mechatronics graduate.</text>
   </g>
-  <g fill="#0D1B27" stroke="#3B7464">
-    <circle cx="747" cy="126" r="5"/>
-    <circle cx="747" cy="180" r="5"/>
-    <circle cx="747" cy="234" r="5"/>
-    <rect x="1120" y="121" width="10" height="10" rx="2"/>
-    <rect x="1120" y="175" width="10" height="10" rx="2"/>
-    <rect x="1120" y="229" width="10" height="10" rx="2"/>
-  </g>
-  <rect x="864" y="126" width="108" height="108" rx="22" fill="#0C1A25" stroke="#4F9B82"/>
-  <rect x="874" y="136" width="88" height="88" rx="15" stroke="#6EE7B7" stroke-opacity="0.13"/>
-  <g stroke="#6EE7B7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M894 180L918 158L942 180L918 202Z"/>
-    <path d="M894 180H942M918 158V202" stroke-opacity="0.55"/>
-  </g>
-  <circle cx="918" cy="180" r="4" fill="#6EE7B7"/>
-  <g fill="#91A8BA" font-family="Segoe UI, Arial, Helvetica, sans-serif" font-size="12" font-weight="600" letter-spacing="2.5" text-anchor="middle">
-    <text x="758" y="280">SENSE</text>
-    <text x="918" y="280" fill="#6EE7B7">REASON</text>
-    <text x="1112" y="280">ACT</text>
-  </g>
-  <path d="M809 276H854M989 276H1072" stroke="#395247"/>
 </svg>
